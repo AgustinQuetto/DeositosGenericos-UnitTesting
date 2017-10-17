@@ -1,0 +1,19 @@
+c:\users\administrador\documents\visual studio 2010\Projects\ClasesGenericas_2016\Entidades\bin\Debug\Entidades.dll
+c:\users\administrador\documents\visual studio 2010\Projects\ClasesGenericas_2016\Entidades\bin\Debug\Entidades.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\ClasesGenericas_2016\Entidades\obj\Debug\Entidades.dll
+c:\users\administrador\documents\visual studio 2010\Projects\ClasesGenericas_2016\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\ClasesGenericas_2016\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\ClasesGenericas_2016\Entidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\ClasesGenericas_2016\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\ClasesGenericas_2016\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Desktop\ClasesGenericas_2016\Entidades\obj\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\ClasesGenericas_2017_con_test_unitarios\Entidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\ClasesGenericas_2017_con_test_unitarios\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\ClasesGenericas_2017_con_test_unitarios\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\ClasesGenericas_2017_con_test_unitarios\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Desktop\ClasesGenericas_2017_con_test_unitarios\Entidades\obj\Debug\Entidades.pdb
+D:\ClasesGenericas_2017_con_test_unitarios\Entidades\bin\Debug\Entidades.dll
+D:\ClasesGenericas_2017_con_test_unitarios\Entidades\bin\Debug\Entidades.pdb
+D:\ClasesGenericas_2017_con_test_unitarios\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\ClasesGenericas_2017_con_test_unitarios\Entidades\obj\Debug\Entidades.dll
+D:\ClasesGenericas_2017_con_test_unitarios\Entidades\obj\Debug\Entidades.pdb

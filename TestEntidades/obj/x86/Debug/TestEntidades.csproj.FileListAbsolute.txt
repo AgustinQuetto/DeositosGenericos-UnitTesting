@@ -1,0 +1,28 @@
+c:\users\administrador\documents\visual studio 2010\Projects\ClasesGenericas_2016\TestEntidades\bin\Debug\TestEntidades.exe
+c:\users\administrador\documents\visual studio 2010\Projects\ClasesGenericas_2016\TestEntidades\bin\Debug\TestEntidades.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\ClasesGenericas_2016\TestEntidades\bin\Debug\Entidades.dll
+c:\users\administrador\documents\visual studio 2010\Projects\ClasesGenericas_2016\TestEntidades\bin\Debug\Entidades.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\ClasesGenericas_2016\TestEntidades\obj\x86\Debug\TestEntidades.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2010\Projects\ClasesGenericas_2016\TestEntidades\obj\x86\Debug\TestEntidades.exe
+c:\users\administrador\documents\visual studio 2010\Projects\ClasesGenericas_2016\TestEntidades\obj\x86\Debug\TestEntidades.pdb
+C:\Users\alumno\Desktop\ClasesGenericas_2016\TestEntidades\bin\Debug\TestEntidades.exe
+C:\Users\alumno\Desktop\ClasesGenericas_2016\TestEntidades\bin\Debug\TestEntidades.pdb
+C:\Users\alumno\Desktop\ClasesGenericas_2016\TestEntidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\ClasesGenericas_2016\TestEntidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\ClasesGenericas_2016\TestEntidades\obj\x86\Debug\TestEntidades.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\ClasesGenericas_2016\TestEntidades\obj\x86\Debug\TestEntidades.exe
+C:\Users\alumno\Desktop\ClasesGenericas_2016\TestEntidades\obj\x86\Debug\TestEntidades.pdb
+C:\Users\alumno\Desktop\ClasesGenericas_2017_con_test_unitarios\TestEntidades\obj\x86\Debug\TestEntidades.exe
+C:\Users\alumno\Desktop\ClasesGenericas_2017_con_test_unitarios\TestEntidades\obj\x86\Debug\TestEntidades.pdb
+C:\Users\alumno\Desktop\ClasesGenericas_2017_con_test_unitarios\TestEntidades\bin\Debug\TestEntidades.exe
+C:\Users\alumno\Desktop\ClasesGenericas_2017_con_test_unitarios\TestEntidades\bin\Debug\TestEntidades.pdb
+C:\Users\alumno\Desktop\ClasesGenericas_2017_con_test_unitarios\TestEntidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\ClasesGenericas_2017_con_test_unitarios\TestEntidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\ClasesGenericas_2017_con_test_unitarios\TestEntidades\obj\x86\Debug\TestEntidades.csprojResolveAssemblyReference.cache
+D:\ClasesGenericas_2017_con_test_unitarios\TestEntidades\obj\x86\Debug\TestEntidades.exe
+D:\ClasesGenericas_2017_con_test_unitarios\TestEntidades\obj\x86\Debug\TestEntidades.pdb
+D:\ClasesGenericas_2017_con_test_unitarios\TestEntidades\bin\Debug\TestEntidades.exe
+D:\ClasesGenericas_2017_con_test_unitarios\TestEntidades\bin\Debug\TestEntidades.pdb
+D:\ClasesGenericas_2017_con_test_unitarios\TestEntidades\bin\Debug\Entidades.dll
+D:\ClasesGenericas_2017_con_test_unitarios\TestEntidades\bin\Debug\Entidades.pdb
+D:\ClasesGenericas_2017_con_test_unitarios\TestEntidades\obj\x86\Debug\TestEntidades.csprojResolveAssemblyReference.cache
